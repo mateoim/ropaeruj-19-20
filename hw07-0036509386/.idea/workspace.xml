@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7256558-28b2-42d2-bb5f-2cca131be873" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1USru05bLt2fhqrvg5R7zApa5dF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ANNTrainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.optjava.dz7.ANNTrainer" />
+      <module name="hw07-0036509386" />
+      <option name="PROGRAM_PARAMETERS" value="07-iris-formatirano.data clonalg 30 0.01 1000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.zemris.optjava.dz7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ANNTrainer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7256558-28b2-42d2-bb5f-2cca131be873" name="Default Changelist" comment="" />
+      <created>1575361055499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575361055499</updated>
+      <workItem from="1575361057638" duration="7353000" />
+      <workItem from="1575371294701" duration="2544000" />
+      <workItem from="1575467510920" duration="14774000" />
+      <workItem from="1575493634443" duration="6584000" />
+      <workItem from="1575530993298" duration="8133000" />
+      <workItem from="1575548196877" duration="2873000" />
+      <workItem from="1575659445770" duration="2774000" />
+      <workItem from="1575671988032" duration="1289000" />
+      <workItem from="1575674338736" duration="311000" />
+      <workItem from="1575910924477" duration="197000" />
+      <workItem from="1575981651201" duration="1205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575982068992">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state x="424" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1100@0.23.1920.1100" timestamp="1575982068992" />
+    <state x="773" y="296" key="#com.intellij.ide.util.MemberChooser" timestamp="1575498854668">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state x="773" y="296" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1100@0.23.1920.1100" timestamp="1575498854668" />
+    <state x="739" y="410" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1575499971999">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state x="739" y="410" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.23.1920.1100@0.23.1920.1100" timestamp="1575499971999" />
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1575982905819">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1920.1100@0.23.1920.1100" timestamp="1575982905819" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center" timestamp="1575982905818">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1920.1100@0.23.1920.1100" timestamp="1575982905818" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left" timestamp="1575982905817">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1920.1100@0.23.1920.1100" timestamp="1575982905817" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right" timestamp="1575982905818">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1920.1100@0.23.1920.1100" timestamp="1575982905818" />
+    <state width="1358" height="334" key="GridCell.Tab.1.bottom" timestamp="1575673279702">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.bottom/0.23.1920.1100@0.23.1920.1100" timestamp="1575673279702" />
+    <state width="1358" height="334" key="GridCell.Tab.1.center" timestamp="1575673279701">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.center/0.23.1920.1100@0.23.1920.1100" timestamp="1575673279701" />
+    <state width="1358" height="334" key="GridCell.Tab.1.left" timestamp="1575673279701">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.left/0.23.1920.1100@0.23.1920.1100" timestamp="1575673279701" />
+    <state width="1358" height="334" key="GridCell.Tab.1.right" timestamp="1575673279701">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.right/0.23.1920.1100@0.23.1920.1100" timestamp="1575673279701" />
+    <state x="448" y="154" key="SettingsEditor" timestamp="1575479150809">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state x="448" y="154" key="SettingsEditor/0.23.1920.1100@0.23.1920.1100" timestamp="1575479150809" />
+    <state x="625" y="294" width="670" height="676" key="search.everywhere.popup" timestamp="1575549625743">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state x="625" y="294" width="670" height="676" key="search.everywhere.popup/0.23.1920.1100@0.23.1920.1100" timestamp="1575549625743" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/fer/zemris/optjava/dz7/algorithms/PSO.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

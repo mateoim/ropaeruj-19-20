@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae50bb87-cf95-488b-9b68-26c832de8906" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S8wPt4pXfCqUHYsvFjDLpiDwyS" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Jednostavno">
+    <configuration name="Jednostavno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.optjava.dz2.Jednostavno" />
+      <module name="hw02-0036509386" />
+      <option name="PROGRAM_PARAMETERS" value="2a 50" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.zemris.optjava.dz2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prijenosna" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.optjava.dz2.Prijenosna" />
+      <module name="hw02-0036509386" />
+      <option name="PROGRAM_PARAMETERS" value="grad 100 02-zad-prijenosna.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.zemris.optjava.dz2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sustav" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.optjava.dz2.Sustav" />
+      <module name="hw02-0036509386" />
+      <option name="PROGRAM_PARAMETERS" value="grad 20 02-zad-sustav.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.zemris.optjava.dz2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Jednostavno" />
+      <item itemvalue="Application.Sustav" />
+      <item itemvalue="Application.Prijenosna" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Jednostavno" />
+        <item itemvalue="Application.Prijenosna" />
+        <item itemvalue="Application.Sustav" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae50bb87-cf95-488b-9b68-26c832de8906" name="Default Changelist" comment="" />
+      <created>1570958509514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570958509514</updated>
+      <workItem from="1570958512380" duration="2809000" />
+      <workItem from="1571043454874" duration="2197000" />
+      <workItem from="1571152469054" duration="5283000" />
+      <workItem from="1571161498135" duration="254000" />
+      <workItem from="1571165450793" duration="41000" />
+      <workItem from="1571211259933" duration="12726000" />
+      <workItem from="1571229432475" duration="7501000" />
+      <workItem from="1571242667206" duration="2615000" />
+      <workItem from="1571246184349" duration="2098000" />
+      <workItem from="1571256191169" duration="164000" />
+      <workItem from="1571259380644" duration="1681000" />
+      <workItem from="1571294332310" duration="259000" />
+      <workItem from="1571294819575" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
